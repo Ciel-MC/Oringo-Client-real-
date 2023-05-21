@@ -1,2 +1,5 @@
-# Oringo-Client-Supporter
-Oringo Client Supporter version 1.8. Version is a little bit old, but still has some of the main features of present-day Oringo Supporter.
+# Oringo-Client
+
+Not supported and more than a year old
+Some features might be detected
+If you want an updated version with way more features check out https://github.com/AodDeVv/Oringo-Client-Supporter/releases/tag/Releases
